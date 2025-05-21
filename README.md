@@ -34,7 +34,7 @@ FOR NON-WINDOWS:
 
 ## Expected Output
 
-To run tests, run the following command
+After running the compiled code, provided output should resemble your output:
 
 ```bash
 TEST 1: Generated vector
